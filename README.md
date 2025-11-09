@@ -22,14 +22,6 @@ Matplotlib / Seaborn (optional for visualization)
 
 Jupyter Notebook / VS Code
 
-📂 Project Structure
-📁 House-Price-Prediction
-│── 📄 README.md
-│── 📄 dataset.csv
-│── 📄 model.ipynb
-│── 📄 requirements.txt
-│── 📄 app.py (optional if deployed)
-
 🔍 Features
 
 ✅ Data cleaning and handling missing values
